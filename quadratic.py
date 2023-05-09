@@ -24,3 +24,4 @@ if disk == 0:
           
           print(f"dva kořeny jsou {sol1},{sol2}")
 
+#made by cyberft-pdf
